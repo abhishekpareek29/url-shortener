@@ -1,3 +1,4 @@
+// function to shorten url
 function my_custom_url_shorten($long_url) {
   $service_url = 'https://www.googleapis.com/urlshortener/v1/url?key=******* your google url shorten api key *******';
 
